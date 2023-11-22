@@ -4,7 +4,7 @@ Universal chromatin HMMs (now superseeded by ChroMATIC)
 
 # About
 
-This is a repository of analysis scripts for the Hidden Markov Modelling of chromatin states, as used in Josserand et al 2023.  Chromatin state definitions and calls are based on unpublished data and research from the Marshall lab.
+This is a repository of analysis scripts for the Hidden Markov Modelling of chromatin states, as used in Josserand *et al* 2023.  Chromatin state definitions and calls are based on unpublished data and research from the Marshall lab.
 
 > **Warning** These scripts are forerunners of **ChroMATIC**, a complete gaussian Chromatin HMM analysis package that provides fully-automated analysis, machine-learning assignment of chromatin states, multi-modal inference and more.
 >
